@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 Soy Dayana
+
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 💻 Interesada en el desarrollo de software y las nuevas tecnologías.
+- 🌱 Actualmente sigo aprendiendo y desarrollando nuevos proyectos.
+- 🔐 Explorando áreas como desarrollo web, redes y ciberseguridad.
+- 🏊‍♀️ Cuando no estoy programando, probablemente estoy nadando.
+
+> 💡 *"Siempre hay algo nuevo por aprender."*
+
+---
 
 <!--
 **DayanaIbarraZarate/DayanaIbarraZarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
